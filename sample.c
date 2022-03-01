@@ -2,5 +2,6 @@
 <#include conio.h>
 void main()
 {
-printf("Hello CSE");
+printf("Hello CSE"); 
+printf("Welcome to our MCET");
 }
